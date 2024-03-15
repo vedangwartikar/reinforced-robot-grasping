@@ -1,0 +1,10 @@
+{
+    "specific_object": "cube_small.urdf",
+    "algorithm": "DQN",
+    "timesteps": 75000,
+    "lr": 0.001,
+    "discount": 0.99,
+    "random_seed": 5,
+    "model_dir": "../models/DQN_75k_cube/best_model.zip",
+    "test_episodes": 10
+}

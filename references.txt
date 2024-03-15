@@ -1,0 +1,3 @@
+PyBullet official RL example -> https://github.com/bulletphysics/bullet3/blob/master/examples/pybullet/gym/pybullet_envs/bullet/kuka_diverse_object_gym_env.py
+Kuka robot configuration -> https://github.com/bulletphysics/bullet3/blob/master/examples/pybullet/gym/pybullet_envs/bullet/kuka.py
+Callbacks to access model internal variables -> https://stable-baselines.readthedocs.io/en/master/guide/callbacks.html#legacy-a-functional-approach
